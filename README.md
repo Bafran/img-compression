@@ -19,7 +19,7 @@ This image compressor follow the JPEG compression method of the following steps,
 ## Important Goals
 
 - [ ] Remove all dyanamic memory allocations
-= [ ] General cleanup
+- [ ] General cleanup
 - [ ] Redo API
 - [ ] Consolidate into one header and one source file for ease of use
 
