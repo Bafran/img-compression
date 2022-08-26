@@ -1,4 +1,5 @@
 # C Image Compressor/Encoder Demo
+# Currntly functioning as a prototype/proof-of-concept
 
 ## Method
 
